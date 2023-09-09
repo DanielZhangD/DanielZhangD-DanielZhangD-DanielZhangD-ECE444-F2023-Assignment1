@@ -2,4 +2,4 @@
 
 ![Alt text](image.png)
 
-c4
+c4 c2
